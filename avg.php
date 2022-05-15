@@ -4,4 +4,4 @@
 		return (a+b)/2
 		}
 
-?>
+?>function cokolwiek
